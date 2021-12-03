@@ -11,13 +11,17 @@
 <a href="https://twitter.com/antonio9626"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
-<p align="center" >
+<p align="center">
 <a href="https://github.com/anrogo/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=anrogo&&show_icons=true&theme=radical"/>
   </a>
   <a href="https://github.com/anrogo/github-readme-stats"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrogo&layout=compact"/>
   </a>
+</p>
+
+<p align="center">
+   I'm young developer that is finishing my education with higher degree in multiplatform application development 💻
 </p>
 
 ### - Languages and Tools I know:
