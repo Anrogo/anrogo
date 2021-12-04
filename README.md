@@ -49,8 +49,7 @@
 ### - To think about this:
 <p align="center">
        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="quote" style="vertical-align:top; margin:4px">
-       <img src="https://camo.githubusercontent.com/4f89632167b7a39fb7f92d4f634da0ce577b0a5c5ceee4578c71d12fc4417c77/68747470733a2f2f6769746875622d726561646d652d71756f7465732e6865726f6b756170702e636f6d2f71756f74653f7468656d653d6461726b" alt="quote" style="vertical-align:top; margin:4px">
-      <!-- <img src="/assets/text.svg" alt="quote" style="vertical-align:top; margin:4px">-->
+       <img src="/assets/text.svg" alt="quote" style="vertical-align:top; margin:4px">
 </p>
 <!--
 **Anrogo/anrogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
