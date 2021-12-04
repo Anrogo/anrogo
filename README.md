@@ -22,7 +22,7 @@
 
 ### - About me:
 <h2 align="center">
-   I'm young developer that is finishing my education with higher degree in multiplatform application development 💻
+   I'm young developer that is finishing my education higher degree in multiplatform application development 💻
 </h2>
 
 ### - Languages and Tools I know:
@@ -46,7 +46,11 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-  
+### - To think about this:
+
+<p align="center">
+       <img src="/assets/text.svg" alt="quote" style="vertical-align:top; margin:4px">
+</p>
 <!--
 **Anrogo/anrogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
