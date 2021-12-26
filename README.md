@@ -10,10 +10,10 @@
  </p>
 
 <p align="center">
-<a href="https://github.com/anrogo/github-readme-stats"> 
+<a href="https://github-readme-stats.vercel.app/api?username=anrogo&&show_icons=true&theme=tokyonight"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=anrogo&&show_icons=true&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/anrogo/github-readme-stats"> 
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anrogo&layout=compact"> 
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anrogo&layout=compact"/>
   </a>
 </p>
