@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px"> 
   <img src="/assets/css.svg" alt="css" style="vertical-align:top; margin:4px">
   <!--<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=&logo=angular&logoColor=white" alt="angular" style="vertical-align:top; margin:4px"> -->
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/angular.svg" alt="angularJS" style="vertical-align:top; margin:4px">
+  <img src="/assets/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
   <img src="/assets/Java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
