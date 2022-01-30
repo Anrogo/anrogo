@@ -37,6 +37,8 @@
   <img src="/assets/Java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/assets/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="/assets/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
+   <img src="/assets/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="/assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="/assets/pc.svg" alt="pc" style="vertical-align:top; margin:4px">
