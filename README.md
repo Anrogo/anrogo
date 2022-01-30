@@ -49,7 +49,6 @@
 
 ### - To think about this:
 <p align="center">
-       <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark" alt="quote" style="vertical-align:top; margin:4px">
        <img src="/assets/text.svg" alt="quote" style="vertical-align:top; margin:4px">
 </p>
 <!--
