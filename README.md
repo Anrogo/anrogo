@@ -22,7 +22,7 @@
 
 ### - About me:
 <h2 align="center">
-   I'm young developer that is finishing my education higher degree in multiplatform application development 💻
+   I'm young developer and is finishing my education of higher degree in multiplatform application development 💻
 </h2>
 
 ### - Languages and Tools I know:
