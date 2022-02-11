@@ -6,7 +6,6 @@
 
 <p align="center">
    <a href="https://www.linkedin.com/in/antonio-rodríguez-gonzález-0891aa139/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/antonio9626"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
  </p>
 
 <p align="center">
