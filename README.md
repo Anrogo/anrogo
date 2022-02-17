@@ -32,31 +32,32 @@
   <img src="/assets/css.svg" alt="css" style="vertical-align:top; margin:4px">
   <!--<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=&logo=angular&logoColor=white" alt="angular" style="vertical-align:top; margin:4px"> -->
   <img src="/assets/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
-   <img src="/assets/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
+  <img src="/assets/bootstrap.svg" alt="Bootstrap" style="vertical-align:top; margin:4px">
   <img src="/assets/Java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/assets/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-   <img src="/assets/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
-   <img src="/assets/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
-   <img src="/assets/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
+  <img src="/assets/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
+  <img src="/assets/mysql-logo.svg" alt="MySQL" style="vertical-align:top; margin:4px">
+  <img src="/assets/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
+  <img src="/assets/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
   <img src="/assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
   <img src="/assets/pc.svg" alt="pc" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-   <img src="/assets/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <img src="/assets/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-   <img src="/assets/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
-   <img src="/assets/pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
-   <img src="/assets/eclipse.svg" alt="Eclipse" style="vertical-align:top; margin:4px">
+  <img src="/assets/docker.svg" alt="Docker" style="vertical-align:top; margin:4px">
+  <img src="/assets/pycharm.svg" alt="PyCharm" style="vertical-align:top; margin:4px">
+  <img src="/assets/eclipse.svg" alt="Eclipse" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="/assets/swift.svg" alt="swift" style="vertical-align:top; margin:4px">
-   <img src="/assets/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
-   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-   <img src="/assets/unity.svg" alt="Unity" style="vertical-align:top; margin:4px">
-   <img src="/assets/raspberrypi.svg" alt="Rapsberry PI" style="vertical-align:top; margin:4px">
-   <img src="/assets/cisco.svg" alt="Cisco" style="vertical-align:top; margin:4px">
-   <img src="/assets/postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
+  <img src="/assets/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
+  <img src="/assets/unity.svg" alt="Unity" style="vertical-align:top; margin:4px">
+  <img src="/assets/raspberrypi.svg" alt="Rapsberry PI" style="vertical-align:top; margin:4px">
+  <img src="/assets/cisco.svg" alt="Cisco" style="vertical-align:top; margin:4px">
+  <img src="/assets/postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
 </p>
 
 ### - To think about this:
