@@ -36,6 +36,7 @@
   <img src="/assets/Java.svg" alt="java" style="vertical-align:top; margin:4px">
   <img src="/assets/android_studio.svg" alt="Android Studio" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+   <img src="/assets/sql.svg" alt="SQL" style="vertical-align:top; margin:4px">
    <img src="/assets/php.svg" alt="PHP" style="vertical-align:top; margin:4px">
    <img src="/assets/laravel.svg" alt="Laravel" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -55,6 +56,7 @@
    <img src="/assets/unity.svg" alt="Unity" style="vertical-align:top; margin:4px">
    <img src="/assets/raspberrypi.svg" alt="Rapsberry PI" style="vertical-align:top; margin:4px">
    <img src="/assets/cisco.svg" alt="Cisco" style="vertical-align:top; margin:4px">
+   <img src="/assets/postman.svg" alt="Postman" style="vertical-align:top; margin:4px">
 </p>
 
 ### - To think about this:
